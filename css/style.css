@@ -8,20 +8,27 @@ body {
 img {
 }
 
+.hero {
+    margin-top: 5%;
+}
+
 #avatar {
-    width: 25%!important;
+    width: 40%!important;
     height: auto;
     margin: 5% auto;
     display: block;
     text-align: center;
 }
 
-h1, p {
+h1 {
+    font-size: 3em;
     text-align: center;
     margin: 2% auto;
 }
 
 p {
+    text-align: center;
+    margin: 2% auto;
     font-size: 1.5em;
 }
 
