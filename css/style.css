@@ -6,6 +6,9 @@ body {
 }
 
 img {
+}
+
+#avatar {
     width: 25%!important;
     height: auto;
     margin: 5% auto;
